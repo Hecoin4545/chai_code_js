@@ -1,4 +1,5 @@
-for a in range(1,5):
-    for b in range(0,a):
-        print(2*b+1 , end=' ')
-    print("\n")
+s = 'hello'
+for i in s:
+    print('welcome')
+for i in s:
+    print(s.upper())
